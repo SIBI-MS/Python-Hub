@@ -17,8 +17,6 @@
   <img src="https://github.com/SIBI-MS/Python-Hub/blob/main/Assets/python.jpg" alt="Sublime's custom image"/>
 </p>
 
-Welcome to the Basic Python Functions guide. This document covers fundamental concepts of Python functions.
-
 ## Table of Contents
 1. [What is a Function?](#what-is-a-function)
 2. [Defining and Calling Functions](#defining-and-calling-functions)
