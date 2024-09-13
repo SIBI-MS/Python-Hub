@@ -14,7 +14,7 @@
 
 </div>
 <p align="center">
-  <img src="[https://github.com/SIBI-MS/Python-Hub/blob/main/Assets/python.jpg]" alt="Sublime's custom image"/>
+  <img src="https://github.com/SIBI-MS/Python-Hub/blob/main/Assets/python.jpg" alt="Sublime's custom image"/>
 </p>
 <p align="center">
   
