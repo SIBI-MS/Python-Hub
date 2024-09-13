@@ -1,16 +1,21 @@
 # Basic Python Functions
 <div align="center">
-  
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/sibi-m-s/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/SIBI_M_S">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SIBI_M_S?style=social">
+
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/sibi-m-s/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sibi_M_S-0077B5?style=flat&logo=linkedin" alt="LinkedIn Badge">
   </a>
 
-<sub>Author:
-<a href="https://www.linkedin.com/in/sibi-m-s/" target="_blank">Sibi M. S.</a><br>
-</sub>
+  <!-- Twitter Badge -->
+  <a href="https://twitter.com/SIBI_M_S" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/SIBI_M_S?style=flat&logo=twitter" alt="Twitter Follow">
+  </a>
+
+  <br>
+  <sub>Author: <a href="https://www.linkedin.com/in/sibi-m-s/" target="_blank">Sibi M. S.</a></sub>
+
+</div>
+
 
 </div>
 <p align="center">
