@@ -1,5 +1,7 @@
 # Basic Python Functions
 
+![Front Page Image](https://github.com/SIBI-MS/your-repo-path/assets/front-page-image.png)
+
 Welcome to the Basic Python Functions guide. This document covers fundamental concepts of Python functions.
 
 ## Table of Contents
