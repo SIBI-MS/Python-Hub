@@ -5,12 +5,11 @@
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/SIBI_M_S">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SIBI_M_S?style=social">
   </a>
 
 <sub>Author:
 <a href="https://www.linkedin.com/in/sibi-m-s/" target="_blank">Sibi M. S.</a><br>
-<small> Second Edition: July, 2021</small>
 </sub>
 
 </div>
