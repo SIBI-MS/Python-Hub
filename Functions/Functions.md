@@ -22,22 +22,7 @@
   <img src="https://github.com/SIBI-MS/Python-Hub/blob/main/Assets/python.jpg" alt="Sublime's custom image"/>
 </p>
 
-To add an image as the front page at the top of your Markdown files, you can use the Markdown syntax for embedding images. Here’s how you can do it:
 
-1. **Upload the Image**: First, make sure your image is uploaded to your GitHub repository or hosted somewhere online. If you’re uploading to GitHub, you can do so by adding the image to your repository (e.g., in an `assets` or `images` folder).
-
-2. **Use Markdown to Embed the Image**: Add the image to the top of your `.md` file using the Markdown image syntax.
-
-Here’s how you can modify your `basic_functions.md` and `advanced_functions.md` files to include an image at the top:
-
-### **File 1: `basic_functions.md`**
-
-
-# Basic Python Functions
-
-![Front Page Image](https://github.com/SIBI-MS/your-repo-path/assets/front-page-image.png)
-
-Welcome to the Basic Python Functions guide. This document covers fundamental concepts of Python functions.
 
 ## Table of Contents
 1. [What is a Function?](#what-is-a-function)
@@ -279,5 +264,4 @@ display()
 10. Write a function annotation that indicates a function takes two integers and returns a string.
 ```
 
----
 
