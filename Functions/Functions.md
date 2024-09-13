@@ -13,8 +13,10 @@
 </sub>
 
 </div>
-
-![Front Page Image](../Assets/python.jpg)
+<p align="center">
+  
+  ![Front Page Image](../Assets/python.jpg)
+</p>
 
 Welcome to the Basic Python Functions guide. This document covers fundamental concepts of Python functions.
 
