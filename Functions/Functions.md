@@ -9,12 +9,12 @@
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/sibi-m-s/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/sibi-m-s/" target="_blank">Sibi M. S.</a><br>
 <small> Second Edition: July, 2021</small>
 </sub>
 
 </div>
-</div>
+
 ![Front Page Image](../Assets/python.jpg)
 
 Welcome to the Basic Python Functions guide. This document covers fundamental concepts of Python functions.
