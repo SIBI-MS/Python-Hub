@@ -1,5 +1,20 @@
 # Basic Python Functions
+<div align="center">
+  
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/sibi-m-s/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/SIBI_M_S">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 
+<sub>Author:
+<a href="https://www.linkedin.com/in/sibi-m-s/" target="_blank">Asabeneh Yetayeh</a><br>
+<small> Second Edition: July, 2021</small>
+</sub>
+
+</div>
+</div>
 ![Front Page Image](../Assets/python.jpg)
 
 Welcome to the Basic Python Functions guide. This document covers fundamental concepts of Python functions.
