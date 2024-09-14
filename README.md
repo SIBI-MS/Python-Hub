@@ -1,5 +1,10 @@
 # Python-Hub: From Beginner to Pro 🚀
 
+</div>
+<p align="center">
+  <img src="https://github.com/SIBI-MS/Python-Hub/blob/main/Assets/python.jpg" alt="Sublime's custom image"/>
+</p>
+
 Welcome to **Python Journey**, a comprehensive repository to help you master Python from scratch to advanced topics. Whether you're a complete beginner or looking to refine your skills, this repo has something for you!
 
 ## Table of Contents
